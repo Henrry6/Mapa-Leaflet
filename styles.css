@@ -1,0 +1,21 @@
+body {
+    width: 90%;
+    margin-top: 45px;
+    margin-left: 45px;
+    
+
+}
+
+#map { height: 400px; width: 100%; }
+
+h1 {
+    background-color: aqua;
+    text-align: center;
+    font-size: 50px;
+
+}
+footer {
+    background-color: rgb(193, 250, 193);
+    text-align: center;
+    font-size: 45px;
+}
